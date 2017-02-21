@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomNavigationDrawer</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_clearance_notice">AddClearanceNoticeActivity</string>
+</resources>
